@@ -19,4 +19,5 @@ def disemvowel(string):
             #print(i)
     return new_string
 
+# return s.translate(None, "aeiouAEIOU")
 print(disemvowel("This website is for losers LOL!"))
