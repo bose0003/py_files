@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "django_and_python_udemy"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/usr/local/bin/python3"
+	}
+}
